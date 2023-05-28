@@ -2,13 +2,13 @@
 
 ###
 
-<img align="right" height="240" src="https://i.ytimg.com/vi/GjLRiiUcKiQ/hqdefault.jpg"  />
+<img align="right" height="240" width="300" src="https://i.ytimg.com/vi/GjLRiiUcKiQ/hqdefault.jpg"  />
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="42" alt="kubernetes logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="42" alt="gitlab logo"  />
