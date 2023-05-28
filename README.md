@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to San Andreas, I'm JC (CJ) from Grove Street and also I am DevOps Engineer, before DevOps I was in Software Devolopment (FullStack) </h2>
+<h2 align="left">Welcome to San Andreas, I'm JC (CJ) from Grove Street and also I am DevOps Engineer, before DevOps I was in Software Development (FullStack) </h2>
 
 ###
 
