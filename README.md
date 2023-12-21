@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to San Andreas, I'm JC (CJ) from Grove Street and also I am DevOps Engineer, before DevOps I was in Software Development (FullStack) </h2>
+# Welcome to San Andreas, I'm JC [(CJ)](https://www.youtube.com/watch?v=sOvyNa9-39c) from Grove Street and also I am DevOps Engineer, before DevOps I was in Software Development (FullStack)
 
 ###
 
@@ -37,9 +37,5 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jz543fm/count.svg?"  />
-</div>
 
 ###
