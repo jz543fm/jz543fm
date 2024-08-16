@@ -1,5 +1,7 @@
 # Welcome to San Andreas, I'm JC [(CJ)](https://www.youtube.com/watch?v=sOvyNa9-39c) from Grove Street and also I am DevOps Engineer, before DevOps I was in Software Development (FullStack)
 
+[Sit back I'mma about to begin](https://www.youtube.com/watch?v=aaPQsYqNDnY)
+
 ## “Success is not final, failure is not fatal: it is the courage to continue that counts.” - Winston S. Churchill
 
 <img align="right" height="240" width="300" src="https://i.ytimg.com/vi/GjLRiiUcKiQ/hqdefault.jpg"  />
