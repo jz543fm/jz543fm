@@ -1,6 +1,6 @@
 # Welcome to San Andreas
 
-I'm JC [(CJ)](https://www.youtube.com/watch?v=sOvyNa9-39c) Grove Street 🌴  
+I'm JC [(CJ)](https://www.youtube.com/watch?v=sOvyNa9-39c) from Grove Street 🌴  
 Also I am Software Engineer, before I was into the (FullStack & DevOps & SRE & Testing & CyberSec)
 
 ---
