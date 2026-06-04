@@ -1,60 +1,52 @@
-# Welcome to San Andreas, I'm JC [(CJ)](https://www.youtube.com/watch?v=sOvyNa9-39c) from Grove Street and also I am SW Engineer, before I was in Software Development (FullStack), DevOps, SRE, testing and little byte CyberSec.
+# Welcome to San Andreas
 
-[Sit back I'mma about to begin](https://www.youtube.com/watch?v=aaPQsYqNDnY)
+I'm JC [(CJ)](https://www.youtube.com/watch?v=sOvyNa9-39c) Grove Street 🌴  
+Also I am Software Engineer, before I was into the (FullStack & DevOps & SRE & Testing & CyberSec)
 
-<div style="display: flex; gap: 20px;">
-<img align="right" height="540" width="600" src="https://i.ytimg.com/vi/GjLRiiUcKiQ/hqdefault.jpg"  />
+---
 
-<img align="center" height="540" width="600" src="https://media.licdn.com/dms/image/v2/D5622AQFn4cSeHQVasA/feedshare-shrink_800/feedshare-shrink_800/0/1690562373055?e=2147483647&v=beta&t=Gj0nGXeGVSwbN68HxHJaZOA1DzBkmPaHQD5pIRu5C2Q"  />
-</div>
+[Sit back, I'mma about to begin](https://www.youtube.com/watch?v=aaPQsYqNDnY)
 
+---
 
+<p align="center">
+  <img src="https://i.ytimg.com/vi/GjLRiiUcKiQ/hqdefault.jpg" 
+       style="max-width:45%; height:auto;" />
+       
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQFn4cSeHQVasA/feedshare-shrink_800/feedshare-shrink_800/0/1690562373055?e=2147483647&v=beta&t=Gj0nGXeGVSwbN68HxHJaZOA1DzBkmPaHQD5pIRu5C2Q"
+       style="max-width:45%; height:auto;" />
+</p>
 
-<br clear="both">
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="42" alt="kubernetes logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" width="42" alt="vim logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-</div>
+---
 
-###
+## ⚙️ Tech Stack
 
-<br clear="both">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+</p>
 
-<div align="left">
-  <a href="zittnansky.juraj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+---
+
+## 📫 Contact
+
+<p>
+  <a href="mailto:zittnansky.juraj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="http://linkedin.com/in/juraj-žittňanský-193773190/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="http://linkedin.com/in/juraj-žittňanský-193773190/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://stackoverflow.com/users/12390686/juraj-Žittňanský" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  <a href="https://stackoverflow.com/users/12390686">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white">
   </a>
-</div>
+</p>
 
-<style>
-  .github-footer {
-    text-align: center;
-    padding: 15px;
-    background-color: #24292f; /* GitHub dark gray */
-    color: #ffffff;
-    font-size: 14px;
-    margin-top: 50px;
-  }
+---
 
-  .github-footer a {
-    color: #58a6ff;
-    text-decoration: none;
-  }
-
-  .github-footer a:hover {
-    text-decoration: underline;
-  }
-</style>
-
-<footer class="github-footer">
-  <p>&copy; 2026 pkill -u root. Hosted by CloudFlare.</p>
-</footer>
+<p align="center">
+  © 2026 pkill -u root· Hosted on Cloudflare
+</p>
