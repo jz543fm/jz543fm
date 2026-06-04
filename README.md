@@ -1,15 +1,16 @@
-# Welcome to San Andreas, I'm JC [(CJ)](https://www.youtube.com/watch?v=sOvyNa9-39c) from Grove Street and also I am DevOps Engineer, before DevOps I was in Software Development (FullStack)
+# Welcome to San Andreas, I'm JC [(CJ)](https://www.youtube.com/watch?v=sOvyNa9-39c) from Grove Street and also I am SW Engineer, before I was in Software Development (FullStack), DevOps, SRE, testing and little byte CyberSec.
 
 [Sit back I'mma about to begin](https://www.youtube.com/watch?v=aaPQsYqNDnY)
 
-## “Success is not final, failure is not fatal: it is the courage to continue that counts.” - Winston S. Churchill
+<div style="display: flex; gap: 20px;">
+<img align="right" height="540" width="600" src="https://i.ytimg.com/vi/GjLRiiUcKiQ/hqdefault.jpg"  />
 
-<img align="right" height="240" width="300" src="https://i.ytimg.com/vi/GjLRiiUcKiQ/hqdefault.jpg"  />
+<img align="center" height="540" width="600" src="https://media.licdn.com/dms/image/v2/D5622AQFn4cSeHQVasA/feedshare-shrink_800/feedshare-shrink_800/0/1690562373055?e=2147483647&v=beta&t=Gj0nGXeGVSwbN68HxHJaZOA1DzBkmPaHQD5pIRu5C2Q"  />
+</div>
 
-###
+
 
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="42" alt="kubernetes logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
@@ -34,8 +35,26 @@
   </a>
 </div>
 
-###
+<style>
+  .github-footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #24292f; /* GitHub dark gray */
+    color: #ffffff;
+    font-size: 14px;
+    margin-top: 50px;
+  }
 
-<br clear="both">
+  .github-footer a {
+    color: #58a6ff;
+    text-decoration: none;
+  }
 
-###
+  .github-footer a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<footer class="github-footer">
+  <p>&copy; 2026 pkill -u root. Hosted by CloudFlare.</p>
+</footer>
